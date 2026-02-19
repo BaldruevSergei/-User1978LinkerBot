@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const express = require("express");
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -9,6 +10,8 @@ app.get("/", (req, res) => {
 app.listen(PORT, () => {
   console.log(`Server running on port ${PORT}`);
 });
+=======
+>>>>>>> b5bbc10dc2eded3c5cd12275b0e15b08c615e3e6
 require("dotenv").config();
 
 const TelegramBot = require("node-telegram-bot-api");

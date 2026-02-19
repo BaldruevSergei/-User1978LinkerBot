@@ -5,7 +5,10 @@
   "type": "commonjs",
   "dependencies": {
     "dotenv": "^17.3.1",
+<<<<<<< HEAD
     "express": "^5.2.1",
+=======
+>>>>>>> b5bbc10dc2eded3c5cd12275b0e15b08c615e3e6
     "node-telegram-bot-api": "^0.66.0"
   },
   "scripts": {
